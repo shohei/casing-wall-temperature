@@ -1,7 +1,14 @@
 import matplotlib.pyplot as plt
 import pandas as pd
+import sys
 
-fin = open('therm.out')
+args = sys.argv
+if len(args) < 2:
+    print('Input file not specified.')
+    print('Usage: python vis.py <DATA_FILE.out>')
+    exit()
+filename = args[1]
+fin = open(filename)
 count = 0
 columns = []
 data = []
