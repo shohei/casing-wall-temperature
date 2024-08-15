@@ -16,3 +16,11 @@
 ```
 $ python vis.py <DATA_FILE.out>
 ```
+
+(Performance)
+
+- Low: Epoxy:graphite
+- High: Rubberhard vulc. - Middle: Others
+
+
+
