@@ -46,5 +46,5 @@ for i in range(12):
 plt.legend(legends)    
 plt.xlabel('Location [inside=0, outside=10]')
 plt.ylabel('Temperature (C)')
-plt.title('Tepmerature Distribution through casing wall')
+plt.title('Temperature Distribution through casing wall')
 plt.show()
