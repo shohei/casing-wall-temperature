@@ -4,11 +4,11 @@
 
 ## Prerequisites
 
-- THERMCAS 
+#### THERMCAS 
  * Program to calculate cassing wall temperature that runs on MS-DOS by R. Nakka
  * Download link: https://www.nakka-rocketry.net/softw.html
 
-- vDOS 
+#### vDOS 
  * DOS emulator
  * Download link: https://vdos.info/download.html
 
